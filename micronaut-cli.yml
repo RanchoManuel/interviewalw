@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.bitacorajm
+---
+testFramework: junit
+sourceLanguage: java
